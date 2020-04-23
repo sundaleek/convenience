@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name              = "ConvenienceDavid"
-    s.version           = "0.0.2"
+    s.version           = "0.0.3"
     s.summary           = "FIXME"
 
     s.homepage          = "https://github.com/keeshux/convenience"
