@@ -1,12 +1,12 @@
 Pod::Spec.new do |s|
     s.name              = "ConvenienceDavid"
-    s.version           = "0.0.3"
+    s.version           = "0.0.4"
     s.summary           = "FIXME"
 
     s.homepage          = "https://github.com/keeshux/convenience"
     s.license           = { :type => "BSD", :file => "LICENSE" }
     s.author            = { "Davide De Rosa" => "keeshux@gmail.com" }
-    s.source            = { :git => "https://github.com/keeshux/convenience.git", :tag => "v#{s.version}" }
+    s.source            = { :git => "https://github.com/sundaleek/convenience.git", :tag => "v#{s.version}" }
     s.swift_version     = "5.0"
 
     s.subspec "About" do |p|
