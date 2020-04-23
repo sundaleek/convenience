@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-    s.name              = "Convenience"
+    s.name              = "ConvenienceDavid"
     s.version           = "0.0.1"
     s.summary           = "FIXME"
 
